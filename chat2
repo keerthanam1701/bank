@@ -1,0 +1,85 @@
+Result description
+
+Test21_AddDivision_MethodCorrectness
+------------------------------------
+ Exception while testing AddDivision method of VectorRepository class.
+
+
+
+
+
+Test27_UI_CreateAgent_Test
+--------------------------
+Unable to locate element: //*[@id='Message']-Exception trying to save agent details. Exception :
+
+
+
+
+
+Test23_AddStipend_MethodCorrectness
+-----------------------------------
+ Exception while testing AddStipend method of VectorRepository class.
+
+
+
+
+
+Test22_AddAgent_MethodCorrectness
+---------------------------------
+ Exception while testing AddAgent method of VectorRepository class.
+
+
+
+
+
+Test28_UI_CreateStipend_Test
+----------------------------
+Unable to locate element: //*[@id='Message']-Exception trying to save stipend details. Exception :
+
+
+
+
+ Grading and Feedback
+Properties, Data Annotations and Database Tests - 20 / 20 (Success)
+To Work with Properties, Data Annotations and Database  - 20 / 20 (Success)
+	 Check whether required properties are implemented in Division class                                                               -    2/2
+	 Check whether required data annotations are implemented in Division class                                                         -    3/3
+	 Check whether required properties are implemented in Agent class                                                                  -    2/2
+	 Check whether required data annotations are implemented in Agent class                                                            -    3/3
+	 Check whether required properties are implemented in Stipend class                                                                -    2/2
+	 Check whether required data annotations are implemented in Stipend class                                                          -    3/3
+	 Check whether required properties are implemented in VectorDBContext class                                                        -    3/3
+	 Check whether required methods are implemented in VectorRepository class                                                          -    2/2
+Business Logics and Method Declarations Tests - 15 / 24 (Partial Success)
+Implement Business Functionalities and Method Declarations  - 15 / 24 (Partial Success)
+	 Check whether required inherit class is implemented in Home Controller                                                            -    1/1
+	 Check whether required inherit class is implemented in Vector Controller                                                          -    1/1
+	 Check whether required 'Index' Get action implemented in Controllers                                                              -    1/1
+	 Check whether required 'DivisionsList' Get action implemented in Controllers                                                      -    1/1
+	 Check whether required 'AgentsList' Get action implemented in Controllers                                                         -    1/1
+	 Check whether required 'StipendsList' Get action implemented in Controllers                                                       -    1/1
+	 Check whether required 'CreateDivision' Get action implemented in Controllers                                                     -    1/1
+	 Check whether required 'CreateAgent' Get action implemented in Controllers                                                        -    1/1
+	 Check whether required 'CreateStipend' Get action implemented in Controllers                                                      -    1/1
+	 Check whether required Post-CreateDivision action is implemented in Controllers                                                   -    2/2
+	 Check whether required Post-CreateAgent action is implemented in Controllers                                                      -    2/2
+	 Check whether required Post-CreateStipend action is implemented in Controllers                                                    -    2/2
+	 Check whether required Create Division functionalites correctness                                                                 -    0/3
+	 Check whether required Create Agent functionalites correctness                                                                    -    0/3
+	 Check whether required Create Stipend functionalites correctness                                                                  -    0/3
+UI Tests - 38 / 56 (Partial Success)
+Implement UI Functionalities  - 38 / 56 (Partial Success)
+	 Check whether the UI accuracy of Home/Index page correctness                                                                      -    2/2
+	 Check whether Navigation Links is implemented correctly                                                                           -    3/3
+	 Verify the UI accuracy of the CreateDivision functionality                                                                        -    9/9
+	 Verify the UI accuracy of the CreateAgent functionality                                                                           -    0/9
+	 Verify the UI accuracy of the CreateStipend functionality                                                                         -    0/9
+	 Verify the UI accuracy of the DivisionsList functionality                                                                         -    8/8
+	 Verify the UI accuracy of the AgentsList functionality                                                                            -    8/8
+	 Verify the UI accuracy of the StipendsList functionality                                                                          -    8/8
+
+ You have obtained pass percentage. Still few testcases failed . Kindly revisit the Solution.
+
+ 
+Kudos!
+You have earned some XP points.
